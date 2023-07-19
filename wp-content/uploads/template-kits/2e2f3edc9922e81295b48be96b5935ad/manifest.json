@@ -1,0 +1,1465 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "iTalk - Event & Conference Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/home-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/home-2-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Speakers",
+            "screenshot": "screenshots\/speakers.jpg",
+            "source": "templates\/speakers.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/speakers-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Schedule",
+            "screenshot": "screenshots\/schedule.jpg",
+            "source": "templates\/schedule.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/schedule\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Sponsors",
+            "screenshot": "screenshots\/sponsors.jpg",
+            "source": "templates\/sponsors.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/sponsors\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/faq-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.jpg",
+            "source": "templates\/news.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/news-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single News",
+            "screenshot": "screenshots\/single-news.jpg",
+            "source": "templates\/single-news.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/single-news-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/contact-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/404-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact MetForm",
+            "screenshot": "screenshots\/contact-metform.jpg",
+            "source": "templates\/contact-metform.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/contact-metform\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ MetForm",
+            "screenshot": "screenshots\/faq-metform.jpg",
+            "source": "templates\/faq-metform.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/faq-metform\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "EA Advanced Tab Content - Schedule",
+            "screenshot": "screenshots\/ea-advanced-tab-content-schedule.jpg",
+            "source": "templates\/ea-advanced-tab-content-schedule.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/item-schedule-1\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/italk\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.2.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.7.0",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.9",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Image Hover Effects - Elementor Addon",
+            "version": "1.3.4",
+            "file": "image-hover-effects-addon-for-elementor\/image-hover-effects-addon-for-elementor.php",
+            "author": "Blocksera"
+        },
+        {
+            "name": "JetSticky For Elementor",
+            "version": "1.0.2",
+            "file": "jetsticky-for-elementor\/jetsticky-for-elementor.php",
+            "author": "Crocoblock"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.4.9",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.10.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "JegStudio"
+        }
+    ],
+    "images": [
+        {
+            "filename": "side-view-of-caucasian-businessman-standing-and-giving-presentation-in-the-auditorium-e1608773007809.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/side-view-of-caucasian-businessman-standing-and-giving-presentation-in-the-auditorium-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 117797,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YFGMDSJ"
+        },
+        {
+            "filename": "speaker-and-interviewer-talk-in-front-of-audience-at-seminar-e1608773022264.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/speaker-and-interviewer-talk-in-front-of-audience-at-seminar-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 240442,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PB95UA7"
+        },
+        {
+            "filename": "17580-e1608772315136.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/17580-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/schedule.json",
+                    "name": "Schedule"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 58185,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/elegant-white-background-with-shiny-lines_4077186.htm#page=1&query=background%20&position=5"
+        },
+        {
+            "filename": "GAWCHSX.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/GAWCHSX-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/schedule.json",
+                    "name": "Schedule"
+                }
+            ],
+            "filesize": 112675,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GAWCHSX"
+        },
+        {
+            "filename": "PALVJBT.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/PALVJBT-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/schedule.json",
+                    "name": "Schedule"
+                }
+            ],
+            "filesize": 195044,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PALVJBT"
+        },
+        {
+            "filename": "N9AYHFN.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/N9AYHFN-600x900.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/schedule.json",
+                    "name": "Schedule"
+                }
+            ],
+            "filesize": 145840,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N9AYHFN"
+        },
+        {
+            "filename": "BRAIN-1-e1608772930957.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/BRAIN-1-600x176.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/sponsors.json",
+                    "name": "Sponsors"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 165143,
+            "dimensions": [
+                1000,
+                294
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DGKLKF"
+        },
+        {
+            "filename": "CITRUS@3x-1-e1608772917320.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/CITRUS@3x-1-600x182.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/sponsors.json",
+                    "name": "Sponsors"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 149322,
+            "dimensions": [
+                1000,
+                303
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-TUAS46"
+        },
+        {
+            "filename": "IDEACONNECT@3x-e1608772960686.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/IDEACONNECT@3x-600x149.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/sponsors.json",
+                    "name": "Sponsors"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 117315,
+            "dimensions": [
+                1000,
+                249
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BJR5RV"
+        },
+        {
+            "filename": "COLSTAR@3x-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/COLSTAR@3x-1-600x194.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/sponsors.json",
+                    "name": "Sponsors"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 30484,
+            "dimensions": [
+                1172,
+                379
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NYS43M"
+        },
+        {
+            "filename": "VIBE@3x-e1608772823749.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/VIBE@3x-600x182.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/sponsors.json",
+                    "name": "Sponsors"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 170989,
+            "dimensions": [
+                1000,
+                303
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-9SM44W"
+        },
+        {
+            "filename": "MEDIAFINI@3x-e1608772868775.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/MEDIAFINI@3x-600x114.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/sponsors.json",
+                    "name": "Sponsors"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 102540,
+            "dimensions": [
+                1000,
+                190
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-B4F9GY"
+        },
+        {
+            "filename": "PLANETOSA@3x-e1608772856906.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/PLANETOSA@3x-600x185.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/sponsors.json",
+                    "name": "Sponsors"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 147884,
+            "dimensions": [
+                1000,
+                308
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AZL8G3"
+        },
+        {
+            "filename": "BLUEMEDIA@3x-e1608772942564.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/BLUEMEDIA@3x-600x165.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/sponsors.json",
+                    "name": "Sponsors"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 139793,
+            "dimensions": [
+                1000,
+                274
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MFXAEC"
+        },
+        {
+            "filename": "office-building-e1608772335835.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/office-building-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 524613,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XLMCT36"
+        },
+        {
+            "filename": "auditorium-with-long-table-and-podium-e1608772711486.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/auditorium-with-long-table-and-podium-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/schedule.json",
+                    "name": "Schedule"
+                }
+            ],
+            "filesize": 235172,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P9ZP3HP"
+        },
+        {
+            "filename": "3440061-e1608772039374.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/3440061-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                },
+                {
+                    "source": "templates\/schedule.json",
+                    "name": "Schedule"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 70622,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/white-elegant-texture-background_6849618.htm#position=29"
+        },
+        {
+            "filename": "audience-applauding-speaker-at-a-business-seminar-e1608772527444.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/audience-applauding-speaker-at-a-business-seminar-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 233721,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZBPHQ4"
+        },
+        {
+            "filename": "smiling-audience-applauding-at-a-business-seminar-e1608772504876.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/smiling-audience-applauding-at-a-business-seminar-e1608527488676-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 156537,
+            "dimensions": [
+                1440,
+                960
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PFPB9ST"
+        },
+        {
+            "filename": "young-graphic-designer-working-in-office-e1608772487563.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/young-graphic-designer-working-in-office-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 175743,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P7EQJ5F"
+        },
+        {
+            "filename": "LZHZBNZ.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/LZHZBNZ-600x677.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                }
+            ],
+            "filesize": 149525,
+            "dimensions": [
+                1000,
+                1128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LZHZBNZ"
+        },
+        {
+            "filename": "ZWKXRPR.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/ZWKXRPR-600x677.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                }
+            ],
+            "filesize": 116728,
+            "dimensions": [
+                1000,
+                1128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZWKXRPR"
+        },
+        {
+            "filename": "3d-rendering-modern-and-luxury-dining-room-with-gold-mirror-e1608772357735.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/3d-rendering-modern-and-luxury-dining-room-with-gold-mirror-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 368055,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3ZGKMAJ"
+        },
+        {
+            "filename": "empty-brick-road-e1608772431355.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/empty-brick-road-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 293861,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PC7W4UJ"
+        },
+        {
+            "filename": "3d-rendering-business-meeting-and-working-room-on-office-building-e1608772372893.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/3d-rendering-business-meeting-and-working-room-on-office-building-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 364085,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NUDQ9SC"
+        },
+        {
+            "filename": "3382325-e1608772297778.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/3382325-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 62706,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/white-elegant-texture-background_6671443.htm"
+        },
+        {
+            "filename": "working-in-conference-hall-e1608772574611.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/working-in-conference-hall-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 191704,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2GA6X8Z"
+        },
+        {
+            "filename": "ideas-creativity-planning-office-working-cafe-concept-e1608772275761.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/ideas-creativity-planning-office-working-cafe-concept-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 311451,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PPJWYPB"
+        },
+        {
+            "filename": "young-successful-businessman-checking-emails-while-having-morning-coffee-e1608772179110.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/young-successful-businessman-checking-emails-while-having-morning-coffee-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 180044,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-4WJERT9"
+        },
+        {
+            "filename": "speaker-at-business-meeting-in-the-conference-hall-1-1-e1608772218563.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/speaker-at-business-meeting-in-the-conference-hall-1-1-600x406.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                }
+            ],
+            "filesize": 251504,
+            "dimensions": [
+                1920,
+                1298
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PM6ERFR"
+        },
+        {
+            "filename": "GAWCHSX-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/GAWCHSX-1-600x677.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                }
+            ],
+            "filesize": 84960,
+            "dimensions": [
+                1000,
+                1128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GAWCHSX"
+        },
+        {
+            "filename": "PALVJBT-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/PALVJBT-1-600x677.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                }
+            ],
+            "filesize": 135132,
+            "dimensions": [
+                1000,
+                1128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PALVJBT"
+        },
+        {
+            "filename": "F8F2T2W.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/F8F2T2W-600x677.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                }
+            ],
+            "filesize": 206456,
+            "dimensions": [
+                1000,
+                1128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F8F2T2W"
+        },
+        {
+            "filename": "N9AYHFN-1.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/N9AYHFN-1-600x677.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                }
+            ],
+            "filesize": 115034,
+            "dimensions": [
+                1000,
+                1128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-N9AYHFN"
+        },
+        {
+            "filename": "handsome-businessman-with-leather-bag-on-his-shoulder-e1608772256839.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/handsome-businessman-with-leather-bag-on-his-shoulder-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/speakers.json",
+                    "name": "Speakers"
+                }
+            ],
+            "filesize": 198122,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AFCRY7E"
+        },
+        {
+            "filename": "front-view-of-diverse-business-people-sitting-together-and-having-group-discussion-in-office-e1608772237640.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/front-view-of-diverse-business-people-sitting-together-and-having-group-discussion-in-office-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/schedule.json",
+                    "name": "Schedule"
+                }
+            ],
+            "filesize": 314206,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CLWH8KE"
+        },
+        {
+            "filename": "giving-the-movie-tickets-to-colleague-e1608772155595.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/giving-the-movie-tickets-to-colleague-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 196350,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-X6358VM"
+        },
+        {
+            "filename": "business-handshake-at-office-e1608772082571.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/business-handshake-at-office-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sponsors.json",
+                    "name": "Sponsors"
+                }
+            ],
+            "filesize": 280745,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-UBP8AAQ"
+        },
+        {
+            "filename": "handshake-e1608772123398.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/handshake-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/sponsors.json",
+                    "name": "Sponsors"
+                }
+            ],
+            "filesize": 175630,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PW6N992"
+        },
+        {
+            "filename": "questions-after-seminar-e1608772059362.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/questions-after-seminar-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 225188,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-435LQ68"
+        },
+        {
+            "filename": "discussion-e1608771932819.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/discussion-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                }
+            ],
+            "filesize": 250316,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PF2PAPD"
+        },
+        {
+            "filename": "delegates-networking-at-conference-drinks-reception-e1608772725316.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/delegates-networking-at-conference-drinks-reception-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-news.json",
+                    "name": "Single News"
+                }
+            ],
+            "filesize": 250366,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PLCKMY7"
+        },
+        {
+            "filename": "colleagues-buffet-party-brunch-dinning-concept-e1608772469258.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/colleagues-buffet-party-brunch-dinning-concept-600x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-news.json",
+                    "name": "Single News"
+                }
+            ],
+            "filesize": 214911,
+            "dimensions": [
+                1440,
+                1440
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PYZ3D4D"
+        },
+        {
+            "filename": "beautiful-support-operator-working-with-headset-and-laptop-in-modern-office-e1608771892920.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/beautiful-support-operator-working-with-headset-and-laptop-in-modern-office-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 230575,
+            "dimensions": [
+                1920,
+                1282
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XKSWGVS"
+        },
+        {
+            "filename": "logo-2@3x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/logo-2@3x.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 21986,
+            "dimensions": [
+                424,
+                212
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YL5KWE5"
+        },
+        {
+            "filename": "mobile-logo@3x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/mobile-logo@3x.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 16885,
+            "dimensions": [
+                353,
+                188
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-YL5KWE5"
+        },
+        {
+            "filename": "03.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/italk\/wp-content\/uploads\/sites\/23\/2020\/12\/03-600x401.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 241233,
+            "dimensions": [
+                1000,
+                668
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-KRN5FN"
+        }
+    ]
+}

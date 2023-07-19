@@ -1,0 +1,16 @@
+[23-Mar-2022 16:08:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/shinotec/public_html/afeezyunuss.com/wp-includes/sodium_compat/src/Core32/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shinotec/public_html/afeezyunuss.com/wp-includes/sodium_compat/src/Core32/Ed25519.php on line 10
+[23-Mar-2022 16:08:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/shinotec/public_html/afeezyunuss.com/wp-includes/sodium_compat/src/Core32/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shinotec/public_html/afeezyunuss.com/wp-includes/sodium_compat/src/Core32/Ed25519.php on line 10
+[28-Mar-2022 01:07:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/shinotec/public_html/afeezyunuss.com/wp-includes/sodium_compat/src/Core32/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shinotec/public_html/afeezyunuss.com/wp-includes/sodium_compat/src/Core32/Ed25519.php on line 10
+[28-Mar-2022 01:07:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/shinotec/public_html/afeezyunuss.com/wp-includes/sodium_compat/src/Core32/Ed25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/shinotec/public_html/afeezyunuss.com/wp-includes/sodium_compat/src/Core32/Ed25519.php on line 10

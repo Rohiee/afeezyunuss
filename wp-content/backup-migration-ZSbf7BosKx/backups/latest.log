@@ -1,0 +1,123 @@
+[STEP] [2021-12-24 18:52:42] Looking for PHP CLI executable file.
+[WARN] [2021-12-24 18:52:42] PHP CLI is disabled in your php.ini file, the process may be unstable.
+[WARN] [2021-12-24 18:52:42] PHP CLI file cannot be executed due to unknown reason.
+[STEP] [2021-12-24 18:52:42] Initializing backup...
+[INFO] [2021-12-24 18:52:42] Backup & Migration version: 1.1.8
+[INFO] [2021-12-24 18:52:42] Site which will be backed up: https://blvckdesigner.com
+[INFO] [2021-12-24 18:52:42] PHP Version: 7.3.33
+[INFO] [2021-12-24 18:52:42] WP Version: 5.8.1
+[INFO] [2021-12-24 18:52:42] Web server: Apache
+[INFO] [2021-12-24 18:52:42] Max execution time (in seconds): 259200
+[INFO] [2021-12-24 18:52:42] Max rows per query (this site): 300
+[INFO] [2021-12-24 18:52:42] Checking if backup dir is writable...
+[INFO] [2021-12-24 18:52:42] Initializing custom error handler
+[SUCCESS] [2021-12-24 18:52:42] Yup it is writable...
+[STEP] [2021-12-24 18:52:42] Scanning files...
+[STEP] [2021-12-24 18:52:45] Checking free space, reserving...
+[INFO] [2021-12-24 18:52:45] Requires at least 1163382218 bytes. [1.08 GB]
+[INFO] [2021-12-24 18:52:45] Disk free space function is not disabled - using it...
+[INFO] [2021-12-24 18:52:45] Checking this path/partition: /home/shinotec/public_html/blvckdesigner.com/wp-content/backup-migration-ZSbf7BosKx/backups
+[SUCCESS] [2021-12-24 18:52:45] There is 190,748.21 MB free. [186.28 GB]
+[SUCCESS] [2021-12-24 18:52:45] Great! We have enough space.
+[SUCCESS] [2021-12-24 18:52:45] Confirmed, there is more than enough space, checked: 1163382218 bytes
+[INFO] [2021-12-24 18:52:45] Scanning done - found 12799 files...
+[SUCCESS] [2021-12-24 18:52:45] Backup initialized...
+[STEP] [2021-12-24 18:52:45] Initializing archiving system...
+[SUCCESS] [2021-12-24 18:52:45] Archive system initialized...
+[STEP] [2021-12-24 18:52:45] Preparing map of files...
+[SUCCESS] [2021-12-24 18:52:45] Files prepared.
+[INFO] [2021-12-24 18:52:45] Starting compression process...
+[STEP] [2021-12-24 18:52:45] Smart memory calculation...
+[INFO] [2021-12-24 18:52:45] There is 512 MBs of memory to use
+[INFO] [2021-12-24 18:52:45] WordPress memory limit: 512 MBs
+[SUCCESS] [2021-12-24 18:52:45] Setting the safe limit to 115 MB
+[STEP] [2021-12-24 18:52:45] Making database backup (using V2 engine, requires at least v1.1.0 to restore)
+[INFO] [2021-12-24 18:52:45] Iterating database...
+[INFO] [2021-12-24 18:52:45] Memory usage after initialization: 89.90 MB
+[INFO] [2021-12-24 18:52:45] Scan found 31 tables (34305 rows), estimated total size: 203.14 MB.
+[INFO] [2021-12-24 18:52:45] Memory usage after getting table names: 89.92 MB 
+[INFO] [2021-12-24 18:52:45] Getting table recipes...
+[INFO] [2021-12-24 18:52:45] Table recipes have been exported.
+[INFO] [2021-12-24 18:52:45] Memory usage after loading recipes: 89.94 MB 
+[INFO] [2021-12-24 18:52:45] Saving recipes...
+[INFO] [2021-12-24 18:52:46] Recipes saved.
+[INFO] [2021-12-24 18:52:46] Memory usage after recipe off-load: 89.99 MB
+[INFO] [2021-12-24 18:52:46] Exporting table data...
+[INFO] [2021-12-24 18:52:46] Getting data of table: wpci_actionscheduler_actions (0.19 MB)
+[INFO] [2021-12-24 18:52:46] Table: wpci_actionscheduler_actions cloned, operation took: 0.08707 ms
+[INFO] [2021-12-24 18:52:46] Getting data of table: wpci_actionscheduler_claims (0.03 MB)
+[INFO] [2021-12-24 18:52:46] Table: wpci_actionscheduler_claims cloned, operation took: 0.00106 ms
+[INFO] [2021-12-24 18:52:46] Getting data of table: wpci_actionscheduler_groups (0.03 MB)
+[INFO] [2021-12-24 18:52:46] Table: wpci_actionscheduler_groups cloned, operation took: 0.00287 ms
+[INFO] [2021-12-24 18:52:46] Getting data of table: wpci_actionscheduler_logs (0.09 MB)
+[INFO] [2021-12-24 18:52:46] Table: wpci_actionscheduler_logs cloned, operation took: 0.11348 ms
+[INFO] [2021-12-24 18:52:46] Getting data of table: wpci_commentmeta (0.05 MB)
+[INFO] [2021-12-24 18:52:46] Table: wpci_commentmeta cloned, operation took: 0.00285 ms
+[INFO] [2021-12-24 18:52:46] Getting data of table: wpci_comments (0.09 MB)
+[INFO] [2021-12-24 18:52:46] Table: wpci_comments cloned, operation took: 0.00472 ms
+[INFO] [2021-12-24 18:52:46] Getting data of table: wpci_custom_cursors (0.03 MB)
+[INFO] [2021-12-24 18:52:46] Table: wpci_custom_cursors cloned, operation took: 0.00282 ms
+[INFO] [2021-12-24 18:52:46] Getting data of table: wpci_links (0.03 MB)
+[INFO] [2021-12-24 18:52:46] Table: wpci_links cloned, operation took: 0.00098 ms
+[INFO] [2021-12-24 18:52:46] Getting data of table: wpci_litespeed_url (0.05 MB)
+[INFO] [2021-12-24 18:52:46] Table: wpci_litespeed_url cloned, operation took: 0.00138 ms
+[INFO] [2021-12-24 18:52:46] Getting data of table: wpci_litespeed_url_file (0.06 MB)
+[INFO] [2021-12-24 18:52:46] Table: wpci_litespeed_url_file cloned, operation took: 0.00100 ms
+[INFO] [2021-12-24 18:52:46] Getting data of table: wpci_loginizer_logs (0.02 MB)
+[INFO] [2021-12-24 18:52:46] Table: wpci_loginizer_logs cloned, operation took: 0.00100 ms
+[INFO] [2021-12-24 18:52:46] Getting data of table: wpci_options (3.13 MB)
+[INFO] [2021-12-24 18:52:47] Table: wpci_options cloned, operation took: 1.38634 ms
+[INFO] [2021-12-24 18:52:47] Getting data of table: wpci_postmeta (152.42 MB)
+[INFO] [2021-12-24 18:54:21] Table: wpci_postmeta cloned, operation took: 94.01476 ms
+[INFO] [2021-12-24 18:54:21] Getting data of table: wpci_posts (46.02 MB)
+[INFO] [2021-12-24 18:54:46] Table: wpci_posts cloned, operation took: 24.41664 ms
+[INFO] [2021-12-24 18:54:46] Getting data of table: wpci_statistics_exclusions (0.05 MB)
+[INFO] [2021-12-24 18:54:46] Table: wpci_statistics_exclusions cloned, operation took: 0.00100 ms
+[INFO] [2021-12-24 18:54:46] Getting data of table: wpci_statistics_historical (0.06 MB)
+[INFO] [2021-12-24 18:54:46] Table: wpci_statistics_historical cloned, operation took: 0.00100 ms
+[INFO] [2021-12-24 18:54:46] Getting data of table: wpci_statistics_pages (0.09 MB)
+[INFO] [2021-12-24 18:54:46] Table: wpci_statistics_pages cloned, operation took: 0.18719 ms
+[INFO] [2021-12-24 18:54:46] Getting data of table: wpci_statistics_search (0.06 MB)
+[INFO] [2021-12-24 18:54:46] Table: wpci_statistics_search cloned, operation took: 0.00831 ms
+[INFO] [2021-12-24 18:54:46] Getting data of table: wpci_statistics_useronline (0.02 MB)
+[INFO] [2021-12-24 18:54:46] Table: wpci_statistics_useronline cloned, operation took: 0.00098 ms
+[INFO] [2021-12-24 18:54:46] Getting data of table: wpci_statistics_visit (0.03 MB)
+[INFO] [2021-12-24 18:54:46] Table: wpci_statistics_visit cloned, operation took: 0.10155 ms
+[INFO] [2021-12-24 18:54:46] Getting data of table: wpci_statistics_visitor (0.19 MB)
+[INFO] [2021-12-24 18:54:47] Table: wpci_statistics_visitor cloned, operation took: 1.29258 ms
+[INFO] [2021-12-24 18:54:47] Getting data of table: wpci_statistics_visitor_relationships (0.05 MB)
+[INFO] [2021-12-24 18:54:47] Table: wpci_statistics_visitor_relationships cloned, operation took: 0.00159 ms
+[INFO] [2021-12-24 18:54:47] Getting data of table: wpci_term_relationships (0.03 MB)
+[INFO] [2021-12-24 18:54:47] Table: wpci_term_relationships cloned, operation took: 0.09636 ms
+[INFO] [2021-12-24 18:54:47] Getting data of table: wpci_term_taxonomy (0.05 MB)
+[INFO] [2021-12-24 18:54:47] Table: wpci_term_taxonomy cloned, operation took: 0.01549 ms
+[INFO] [2021-12-24 18:54:47] Getting data of table: wpci_termmeta (0.05 MB)
+[INFO] [2021-12-24 18:54:47] Table: wpci_termmeta cloned, operation took: 0.00109 ms
+[INFO] [2021-12-24 18:54:47] Getting data of table: wpci_terms (0.05 MB)
+[INFO] [2021-12-24 18:54:47] Table: wpci_terms cloned, operation took: 0.07940 ms
+[INFO] [2021-12-24 18:54:47] Getting data of table: wpci_usermeta (0.05 MB)
+[INFO] [2021-12-24 18:54:48] Table: wpci_usermeta cloned, operation took: 0.09018 ms
+[INFO] [2021-12-24 18:54:48] Getting data of table: wpci_users (0.06 MB)
+[INFO] [2021-12-24 18:54:48] Table: wpci_users cloned, operation took: 0.00406 ms
+[INFO] [2021-12-24 18:54:48] Getting data of table: wpci_wpforms_tasks_meta (0.02 MB)
+[INFO] [2021-12-24 18:54:48] Table: wpci_wpforms_tasks_meta cloned, operation took: 0.10975 ms
+[INFO] [2021-12-24 18:54:48] Getting data of table: wpci_wpmailsmtp_debug_events (0.02 MB)
+[INFO] [2021-12-24 18:54:48] Table: wpci_wpmailsmtp_debug_events cloned, operation took: 0.00947 ms
+[INFO] [2021-12-24 18:54:48] Getting data of table: wpci_wpmailsmtp_tasks_meta (0.02 MB)
+[INFO] [2021-12-24 18:54:48] Table: wpci_wpmailsmtp_tasks_meta cloned, operation took: 0.09651 ms
+[INFO] [2021-12-24 18:54:48] Table data exported.
+[INFO] [2021-12-24 18:54:48] Memory usage after data export: 90.32 MB
+[INFO] [2021-12-24 18:54:48] Entire process took: 122.3501 s
+[SUCCESS] [2021-12-24 18:54:48] Database backup finished
+[STEP] [2021-12-24 18:54:48] Making archive
+[INFO] [2021-12-24 18:54:48] Compressing...
+[INFO] [2021-12-24 18:54:48] Using PclZip module to create the backup
+[INFO] [2021-12-24 18:54:48] Legacy setting: Using default modules depending on user server
+[WARN] [2021-12-24 18:54:48] Backup will run as single-request, may be unstable...
+[INFO] [2021-12-24 18:54:48] Chunks contain 1000 files.
+[INFO] [2021-12-24 18:54:50] Milestone: 1000/12799
+[INFO] [2021-12-24 18:55:01] Milestone: 2000/12799
+[INFO] [2021-12-24 18:55:17] Milestone: 3000/12799
+[INFO] [2021-12-24 18:55:49] Milestone: 4000/12799
+[INFO] [2021-12-24 18:56:34] Milestone: 5000/12799
+[INFO] [2021-12-24 18:57:10] Milestone: 6000/12799

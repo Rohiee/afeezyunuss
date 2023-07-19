@@ -1,0 +1,22 @@
+Friday, 24-Dec-2021 19:59:58 - backup started
+Friday, 24-Dec-2021 19:59:58 - wp version     : 5.8.1
+Friday, 24-Dec-2021 19:59:58 - php version    : 7.3.33
+Friday, 24-Dec-2021 19:59:58 - mysql version  : 5.5.5
+Friday, 24-Dec-2021 19:59:58 - memory limit   : 1024M
+Friday, 24-Dec-2021 19:59:58 - execution time : 600
+Friday, 24-Dec-2021 19:59:58 - mysql timeout  : 
+Friday, 24-Dec-2021 19:59:58 - socket timeout : 600
+Friday, 24-Dec-2021 19:59:58 - files larger than 25 MB will be excluded from the backup
+Friday, 24-Dec-2021 19:59:58 - generating file list
+Friday, 24-Dec-2021 19:59:58 - file skipped, file is larger than 25 MB - "**SITE-ROOT**/wp-content/backup-migration-ZSbf7BosKx/backups/BM_Backup_2021-12-24_18_52_42_mXDfvWouQ6ljRTZz.zip"  36.88 MB
+Friday, 24-Dec-2021 19:59:58 - file skipped, file is larger than 25 MB - "**SITE-ROOT**/wp-content/plugins/backup-backup/tmp/bmi-pclzip-61c61806709a8.tmp"  27.71 MB
+Friday, 24-Dec-2021 19:59:59 - file skipped, file is larger than 25 MB - "**SITE-ROOT**/wp-content/plugins/backup-backup/includes/htaccess/db_tables/wpci_postmeta.sql"  182.78 MB
+Friday, 24-Dec-2021 19:59:59 - file skipped, file is larger than 25 MB - "**SITE-ROOT**/wp-content/plugins/backup-backup/includes/htaccess/db_tables/wpci_posts.sql"  41.06 MB
+Friday, 24-Dec-2021 19:59:59 - 4 files were excluded from the backup
+Friday, 24-Dec-2021 19:59:59 - number of files to include in the archive is 13201, and their uncompressed size is 949.78 MB
+Friday, 24-Dec-2021 20:00:00 - finished generating file list
+Friday, 24-Dec-2021 20:00:00 - database backup started
+Friday, 24-Dec-2021 20:00:00 - backing up tables with "wpci_" prefix
+Friday, 24-Dec-2021 20:00:00 - number of tables to backup - 31
+Friday, 24-Dec-2021 20:02:05 - database backup finished
+Friday, 24-Dec-2021 20:02:05 - archiving files using ziparchive

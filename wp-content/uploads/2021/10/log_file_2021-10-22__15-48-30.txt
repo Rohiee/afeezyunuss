@@ -1,0 +1,26 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 90
+Files info:
+Site URL = https://blvckdesigner.com
+Data file = /home/shinotec/public_html/blvckdesigner.com/wp-content/themes/gilber/inc/demo/demo-content.xml
+Widget file = /home/shinotec/public_html/blvckdesigner.com/wp-content/themes/gilber/inc/demo/widgets.wie
+Customizer file = /home/shinotec/public_html/blvckdesigner.com/wp-content/themes/gilber/inc/demo/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

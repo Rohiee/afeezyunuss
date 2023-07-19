@@ -1,0 +1,19 @@
+Friday, 24-Dec-2021 17:08:36 - backup started
+Friday, 24-Dec-2021 17:08:36 - wp version     : 5.8.1
+Friday, 24-Dec-2021 17:08:36 - php version    : 7.3.33
+Friday, 24-Dec-2021 17:08:36 - mysql version  : 5.5.5
+Friday, 24-Dec-2021 17:08:36 - memory limit   : 1024M
+Friday, 24-Dec-2021 17:08:36 - execution time : 600
+Friday, 24-Dec-2021 17:08:36 - mysql timeout  : 
+Friday, 24-Dec-2021 17:08:36 - socket timeout : 600
+Friday, 24-Dec-2021 17:08:36 - files larger than 25 MB will be excluded from the backup
+Friday, 24-Dec-2021 17:08:36 - generating file list
+Friday, 24-Dec-2021 17:08:39 - file skipped, file is larger than 25 MB - "**SITE-ROOT**/wp-content/plugins/backup-backup/includes/htaccess/db_tables/wpci_postmeta.sql"  177.16 MB
+Friday, 24-Dec-2021 17:08:42 - 1 files were excluded from the backup
+Friday, 24-Dec-2021 17:08:42 - number of files to include in the archive is 13199, and their uncompressed size is 928.21 MB
+Friday, 24-Dec-2021 17:08:43 - finished generating file list
+Friday, 24-Dec-2021 17:08:43 - database backup started
+Friday, 24-Dec-2021 17:08:43 - backing up tables with "wpci_" prefix
+Friday, 24-Dec-2021 17:08:43 - number of tables to backup - 31
+Friday, 24-Dec-2021 17:10:50 - database backup finished
+Friday, 24-Dec-2021 17:10:50 - archiving files using ziparchive
